@@ -1,5 +1,7 @@
 # 10 Hiragana Classification using Kuzushiji datasets
 
+Personal work to learn about deep learning and image classification.
+
 The model result with an accuracy of 94.91%
 I used the MNIST digital recognition neural network.
 
